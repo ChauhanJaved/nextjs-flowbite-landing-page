@@ -14,12 +14,12 @@ export default function Header() {
       <Navbar fluid rounded>
         <NavbarBrand href='https://flowbite-react.com'>
           <img
-            src='./favicon.ico'
+            src='./logo.svg'
             className='mr-3 h-6 sm:h-9'
             alt='Flowbite React Logo'
           />
           <span className='self-center whitespace-nowrap text-xl font-semibold dark:text-white'>
-            FrameworkTeam
+            Flowbite React
           </span>
         </NavbarBrand>
         <div className='flex md:order-2'>
